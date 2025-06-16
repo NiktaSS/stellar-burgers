@@ -1,0 +1,77 @@
+{
+  "success": true,
+  "name": "Флюоресцентный метеоритный бургер",
+  "order": {
+    "_id": "66154cd097ede0001d064e7d",
+    "status": "done",
+    "name": "Флюоресцентный метеоритный бургер",
+    "createdAt": "2025-06-12T14:12:32.173Z",
+    "updatedAt": "2025-06-12T14:12:32.790Z",
+    "number": 37865,
+    "price": 5976,
+    "ingredients": [
+      {
+        "_id": "643d69a5c3f7b9001cfa093d",
+        "name": "Флюоресцентная булка R2-D3",
+        "type": "bun",
+        "proteins": 44,
+        "fat": 26,
+        "carbohydrates": 85,
+        "calories": 643,
+        "price": 988,
+        "image": "https://code.s3.yandex.net/react/code/bun-01.png",
+        "image_mobile": "https://code.s3.yandex.net/react/code/bun-01-mobile.png",
+        "image_large": "https://code.s3.yandex.net/react/code/bun-01-large.png",
+        "__v": 0
+      },
+      {
+        "_id": "643d69a5c3f7b9001cfa093d",
+        "name": "Флюоресцентная булка R2-D3",
+        "type": "bun",
+        "proteins": 44,
+        "fat": 26,
+        "carbohydrates": 85,
+        "calories": 643,
+        "price": 988,
+        "image": "https://code.s3.yandex.net/react/code/bun-01.png",
+        "image_mobile": "https://code.s3.yandex.net/react/code/bun-01-mobile.png",
+        "image_large": "https://code.s3.yandex.net/react/code/bun-01-large.png",
+        "__v": 0
+      },
+      {
+        "_id": "643d69a5c3f7b9001cfa0940",
+        "name": "Говяжий метеорит (отбивная)",
+        "type": "main",
+        "proteins": 800,
+        "fat": 800,
+        "carbohydrates": 300,
+        "calories": 2674,
+        "price": 3000,
+        "image": "https://code.s3.yandex.net/react/code/meat-04.png",
+        "image_mobile": "https://code.s3.yandex.net/react/code/meat-04-mobile.png",
+        "image_large": "https://code.s3.yandex.net/react/code/meat-04-large.png",
+        "__v": 0
+      },
+      {
+        "_id": "643d69a5c3f7b9001cfa093f",
+        "name": "Мясо бессмертных моллюсков Protostomia",
+        "type": "main",
+        "proteins": 433,
+        "fat": 244,
+        "carbohydrates": 33,
+        "calories": 420,
+        "price": 1337,
+        "image": "https://code.s3.yandex.net/react/code/meat-02.png",
+        "image_mobile": "https://code.s3.yandex.net/react/code/meat-02-mobile.png",
+        "image_large": "https://code.s3.yandex.net/react/code/meat-02-large.png",
+        "__v": 0
+      }
+    ],
+    "owner": {
+      "email": "nikitoss@gmail.com",
+      "name": "Nikita",
+      "createdAt": "2025-06-13T18:33:38.905Z",
+      "updatedAt": "2025-06-13T09:42:31.417Z"
+    }
+  }
+}
